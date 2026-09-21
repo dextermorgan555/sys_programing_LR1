@@ -1,5 +1,4 @@
-// Лабораторна робота №1
-#include <stdio.h>
+// LR1 System Programming#include <stdio.h>
 #include <windows.h>
 
 int main() {
